@@ -51,6 +51,9 @@
     font-weight: 500;
     line-height: 20px;
     letter-spacing: 0.2px;
-
+    display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
 }
 
