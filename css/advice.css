@@ -1,0 +1,56 @@
+#advice{
+    margin-top: 235px       ;
+}
+
+.advice__title{
+    color: #252B42;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.advice__text{
+    color: #737373;
+    text-align: center;
+    font-size: 14px;    
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    margin-bottom: 45px;
+}
+
+.advice__cards{
+    display: flex;
+    gap: 37.5px;
+}
+
+.advice__card{
+    display: flex;
+    width: 232px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    background-color: gold;
+}
+
+.advice__card__title{
+    color: #252B42;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;  
+}
+
+.advice__card__text{
+    color: #737373;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+
+}
+
